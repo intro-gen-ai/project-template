@@ -18,7 +18,7 @@ Name, Vandy email, VUNetID, Role
 ## Project Proposal 
 **Due October 26, 11:59pm**
 
-300-1000 total across all of the sections below
+300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
 
