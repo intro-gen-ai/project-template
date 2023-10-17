@@ -1,17 +1,28 @@
-# [project name]
-Short description of project
+# Project Name (Due October 26, 11:59pm)
+Short description of project.
+Note: the name of the repo should be the name of the project, or a shortened version of the name. 
 
-## Project Proposal 
-200-1000 words
+## Project PI/Project Team (Due October 26, 11:59pm)
+Name, Vandy email, VUNetID, role
 
-## Project PI/Project Team
-Name, email, role
+## Project Proposal (Due October 26, 11:59pm)
+300-1000 total across all of the sections below
 
-## Goals of project
+### Description of Problem/Opportunity
+
+### Proposed solution/approach
+
+### Project outline/timeline
+
+## Goals of project (Due October 26, 11:59pm)
 Describe the goals of the projects with 1-5 goals. 
+### Goal 1
+### Goal 2
 
-## Project Metrics
+## Project Metrics (Due October 26, 11:59pm)
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
+### Metric 1
+### Metric 2
 
 ## Self-Evaluation
 300-1000 words
