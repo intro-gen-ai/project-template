@@ -10,15 +10,15 @@ Project Notes:
 - General guidance on formatting writing in markdown files (like this README.md file) is at https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
 - There is a [recording of the the class discussion on the use of this template](https://vanderbilt.zoom.us/rec/share/RjihScz0Ti7RId0KMj7GWBc8XueS571_JnFqDQwli0AuKLsgaau0j_RcphBjwYtV.HP10ROf2TwPUn6TA?startTime=1697553005000).
 - You can sign up for a time to discuss your ideas for the project at https://calendly.com/jesse-spencer-smith. We'll also be discussing project in class on Tuesday after Fall Break.
-- Remember that there is an AI Showcase on December 1 (with prizes for Best in Show), so you might want to consider completing your project by then. 
+- Remember that there is an AI Showcase on April 19 (with prizes for Best in Show), so you might want to consider completing your project by then. 
 
 ## Project PI/Project Team 
-**Due October 26, 11:59pm**
+**Due March 21, 11:59pm**
 
 Name, Vandy email, VUNetID, Role
 
 ## Project Proposal 
-**Due October 26, 11:59pm**
+**Due March 21, 11:59pm**
 
 300-1000 words total across all of the sections below
 
@@ -30,35 +30,35 @@ Name, Vandy email, VUNetID, Role
 What are the steps to complete the project? State your milestones and the dates you want to complete them. 
 
 ## Goals of project 
-**Due October 26, 11:59pm**
+**Due March 21, 11:59pm**
 
 Describe 1-5 goals of the project. 
 ### Goal 1
 ### Goal 2
 
 ## Project Metrics 
-**Due October 26, 11:59pm**
+**Due March 21, 11:59pm**
 
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
 ### Metric 1
 ### Metric 2
 
 ## Self-Evaluation
-**Due December 8, 11:59pm**
+**Due April 22, 11:59pm**
 
 300-1000 words
 
 Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
 
 ## Reflection on Learning
-**Due December 8, 11:59pm**
+**Due April 22, 11:59pm**
 
 500-1000 words
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
 ## What's Next?
-**Due December 8, 11:59pm**
+**Due April 22, 11:59pm**
 
 100-500 words
 
