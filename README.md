@@ -44,14 +44,14 @@ Compose 2-5 metrics to determine the success of the project. These should be mea
 ### Metric 2
 
 ## Self-Evaluation
-**Due April 22, 11:59pm**
+**Due April 26, 11:59pm**
 
 300-1000 words
 
 Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
 
 ## Reflection on Learning
-**Due April 22, 11:59pm**
+**Due April 26, 11:59pm**
 
 500-1000 words
 
