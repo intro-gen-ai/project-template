@@ -58,7 +58,7 @@ Address each of the goals, and assess each of the metrics. Include a statement o
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
 ## What's Next?
-**Due April 22, 11:59pm**
+**Due April 26, 11:59pm**
 
 100-500 words
 
